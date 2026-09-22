@@ -1,5 +1,15 @@
 # 2. Add Two Numbers
 
+## cpp — v3 (2026-09-22)
+
+- Problem: https://leetcode.com/problems/add-two-numbers/
+- Time complexity: _not specified_
+- Space complexity: _not specified_
+- Solution file: [`cpp_v3.cpp`](./cpp_v3.cpp)
+
+_No notes provided._
+
+---
 ## cpp — v2 (2026-09-22)
 
 - Problem: https://leetcode.com/problems/add-two-numbers/
