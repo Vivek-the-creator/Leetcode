@@ -1,0 +1,9 @@
+# Pushed: 2026-10-03 05:51:01 UTC
+# Difficulty: Easy
+# Runtime: 511 ms
+# Memory: 0B
+
+# Write your MySQL query statement below
+SELECT teacher_id, COUNT(DISTINCT subject_id) AS cnt
+FROM Teacher
+GROUP BY teacher_id
