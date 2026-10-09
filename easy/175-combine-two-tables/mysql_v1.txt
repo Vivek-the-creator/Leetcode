@@ -1,0 +1,10 @@
+# Pushed: 2026-10-09 16:43:42 UTC
+# Difficulty: Easy
+# Runtime: 449 ms
+# Memory: 0B
+
+# Write your MySQL query statement below
+SELECT firstName, lastName, city, state
+FROM Person
+LEFT JOIN Address
+ON Person.personId = Address.personId
